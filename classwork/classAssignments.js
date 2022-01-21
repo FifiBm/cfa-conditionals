@@ -1,8 +1,8 @@
-/ LOOPS
+'LOOPS'
 
 // 1. create a loop that prints out the numbers 0 - 5 using a while loop
 
-console.log('while loop')
+console.log('while loop')      
 let i = 0;
 while(i <= 5){
     console.log(i);
